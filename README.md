@@ -1,9 +1,9 @@
 # Student-Management-for-Login_Register_Using-JSP_SERVLET_JDBC_MYSQL
 
-MODULES OF STUDENT MANAGEMENT SYSTEM
-The system has a different segment to process a specific task which is the modules. This will help the system to developed easily and makes it more user-friendly.
+<h1>MODULES OF STUDENT MANAGEMENT SYSTEM</h1>
+<p>The system has a different segment to process a specific task which is the modules. This will help the system to developed easily and makes it more user-friendly.</p>
 
-The modules of the project are: –
+<h3>The modules of the project are: –</h3>
 
 1) Login Module: –
 This will help users to login into the system using institute id and password. A user who has the valid id and password can only login to their respective accounts.
