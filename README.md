@@ -34,5 +34,9 @@ This module will reduce the hectic task of taking multiple forms from the instit
 <h3> Student Registration Page </h3>
 <img src="https://user-images.githubusercontent.com/45147588/113716255-08512400-9708-11eb-82fe-862ee7516e41.PNG">
 <hr>
+<h3> Student Login Form </h3>
+<img src="https://user-images.githubusercontent.com/45147588/113716552-5a924500-9708-11eb-998f-49ca47c15cd8.PNG">
+<hr>
+
 
 
