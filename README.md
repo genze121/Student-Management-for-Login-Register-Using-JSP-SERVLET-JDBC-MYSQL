@@ -5,14 +5,14 @@ The system has a different segment to process a specific task which is the modul
 
 The modules of the project are: –
 
-Login Module: –
+1) Login Module: –
 This will help users to login into the system using institute id and password. A user who has the valid id and password can only login to their respective accounts.
 
 It will help the authentication of the user who enters the system. The module provides a layer of security over the system as only authorized personnel can login into the system.
 
 This prevents from any anonymous person to enter the system and mishandle the records. It is better than the manual method as they do not have any security measure of who can access the system and who cannot.
 
-Registration Module: –
+2) Registration Module: –
 This module the student will get registered as it is new in the educational institute. It will be formed like structure where all the student details will be filled.
 
 It will have the fields regarding their personal information like date of birth and address along with that it will also ask its professional details of previous education if it has.
