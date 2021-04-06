@@ -28,6 +28,11 @@ This module will reduce the hectic task of taking multiple forms from the instit
 <hr>
 
 <h1>Project Sample</h1>
-<h3>Home Page</h3>
+<h3> Home Page </h3>
 <img src="https://user-images.githubusercontent.com/45147588/113716023-c3c58880-9707-11eb-9824-2f7863a7f0ae.PNG">
+<hr>
+<h3> Student Registration Page </h3>
+<img src="https://user-images.githubusercontent.com/45147588/113716255-08512400-9708-11eb-82fe-862ee7516e41.PNG">
+<hr>
+
 
