@@ -5,7 +5,7 @@
 
 <h3>The modules of the project are: –</h3>
 
-1) Login Module: –
+<h4> <strong> Login Module: – </strong></h4>
 This will help users to login into the system using institute id and password. A user who has the valid id and password can only login to their respective accounts.
 
 It will help the authentication of the user who enters the system. The module provides a layer of security over the system as only authorized personnel can login into the system.
