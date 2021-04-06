@@ -5,7 +5,7 @@
 
 <h3>The modules of the project are: –</h3>
 
-<h4> <strong> Login Module: – </strong></h4>
+<h4> <strong> <u>Login Module: – </u></strong></h4>
 
 <p>
 This will help users to login into the system using institute id and password. A user who has the valid id and password can only login to their respective accounts.
