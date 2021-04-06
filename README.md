@@ -26,3 +26,8 @@ As this module is present online, the student can register them from anywhere in
 
 This module will reduce the hectic task of taking multiple forms from the institute and filling them carefully as any mistake will lead to getting new sets of the forms.</p>
 <hr>
+
+<h1>Project Sample</h1>
+<h3>Home Page</h3>
+<img src="https://user-images.githubusercontent.com/45147588/113716023-c3c58880-9707-11eb-9824-2f7863a7f0ae.PNG">
+
